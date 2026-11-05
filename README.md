@@ -1,6 +1,6 @@
 # Y'ello Startup 2026 · maquette de site
 
-Maquette proposée par Yelema, non publiée. Démonstration non commandée par MTN Côte d'Ivoire : ne pas diffuser sous le nom de MTN sans son accord écrit.
+Maquette non publiée. Démonstration non commandée par MTN Côte d'Ivoire : ne pas diffuser sous le nom de MTN sans son accord écrit.
 
 ## Sources des textes (relevées le 05/11/2026)
 - Page officielle : https://www.mtn.ci/yello-startup/
